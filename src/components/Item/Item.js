@@ -26,3 +26,6 @@ return(
         </footer>
     </article>
 )}
+
+
+export default Item

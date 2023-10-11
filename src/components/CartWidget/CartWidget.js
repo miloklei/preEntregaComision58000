@@ -1,10 +1,10 @@
-import icon from './assets/icon.jpg'
+import icon from './icon.jpg'
 
-const CardWidget= () => {
-    return(
+function CardWidget() {
+    return (
         <div>
-        <img src={icon} alt="cart-widget" />
-        0
+            <img src={icon} alt="cart-widget" />
+            0
         </div>
     )
 }
